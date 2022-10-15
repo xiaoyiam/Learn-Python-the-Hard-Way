@@ -2,7 +2,7 @@
 
 ## 目录
 
-* ### [Introduction](README.md)
+* ### [Introduction](draft.md)
 * ### [预备周：Python环境配置](ch0/preface.md)
     * [环境配置](ch0/env-build.md)
     * [正确提问](ISSUE_TEMPLATE.md)
