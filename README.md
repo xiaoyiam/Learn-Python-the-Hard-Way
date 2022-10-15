@@ -47,7 +47,5 @@
 
 ## 附：课程资源
 
-- 课程简介及资源索引：https://github.com/AIHackers/IA001/wiki
-
 
 > [Github](https://github.com/xiaoyiam/Learn-Python-the-Hard-Way) / [推荐书单](http://www.douban.com/people/openmindclub/doulists/all)
