@@ -9,7 +9,7 @@
     * [进阶任务](ch0/RepTaskAdvanced.md)
     * [个人教程](ch0/handbook.md)
 * [第一讲：基本语法](ch1/README.md)
-    * [print](ch1/ex01-print.md)
+    * [01-print](ch1/ex01-print.md)
     * [检索实操](ch0/RepSearchPractice.md)
     * [基础任务](ch1/RepTaskBasic.md)
     * [进阶任务](ch1/RepTaskAdvanced.md)
@@ -52,4 +52,4 @@
 - 课程简介及资源索引：https://github.com/AIHackers/IA001/wiki
 
 
-> [微信订阅号](http://weixin.sogou.com/weixin?type=1&query=%E5%BC%80%E6%99%BA%E5%AD%A6%E5%A0%82&ie=utf8&_sug_=y&_sug_type_=) / [推荐书单](http://www.douban.com/people/openmindclub/doulists/all)
+> [Github](https://github.com/xiaoyiam/Learn-Python-the-Hard-Way) / [推荐书单](http://www.douban.com/people/openmindclub/doulists/all)

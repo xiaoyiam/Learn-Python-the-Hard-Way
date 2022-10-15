@@ -5,7 +5,7 @@
     * [检索实操](ch0/RepSearchPractice.md)
     * [基础任务](ch0/RepTaskBasic.md)
     * [进阶任务](ch0/RepTaskAdvanced.md)
-    * [个人教程](ch0/handbook.md)
+    * [正确提问](ISSUE_TEMPLATE.md)
 * [第一讲：基本语法](ch1/README.md)
     * [print](ch1/ex01-print.md)
     * [检索实操](ch0/RepSearchPractice.md)
