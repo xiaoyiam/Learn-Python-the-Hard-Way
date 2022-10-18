@@ -1,4 +1,4 @@
-##  环境配置    
+##  1. Windows版Python安装与配置    
 
 
 因为Python是跨平台的，它可以运行在Windows、Mac和各种Linux/Unix系统上。在Windows上写Python程序，放到Linux上也是能够运行的。
@@ -37,15 +37,53 @@
 如果你不知道怎么修改环境变量，建议把Python安装程序重新运行一遍，务必记得勾上**Add Python 3.8 to PATH**。  
 
 
-##  安装pip  
+##  2. PyCharm下载与安装  
 
 
-因为计算机技术发展日新月异，每天都会有大量的新技术、新标准出现，所以**编程**有一个很重要的能力就是**自学能力**。可以说，自学能力决定了一个人能够在编程这条路上走多远。  
+###  2.1  PyCharm 下载
 
-所以，我们留一个课后题：安装pip
+####  2.1.1  PyCharm 简介
+
+PyCharm 是 Python 最著名的  **集成开发环境(IDE)**  之一，所谓集成开发环境就是将你在开发过程中所需要的工具或功能集成到了一起，比如：代码编写、分析、编译、调试等功能，从而最大化地提高开发者的工作效率。
+
+####  2.1.2 PyCharm 版本
+
+PyCharm 官网提供两个版本：Community 和 Professional，支持 Nindows、Mac、Linux三种操作系统。
+
+Community版本是开源项目，是免费的。Professional 版本功能更强大，是收费的，提供一定时间的免费试用，试用期结束后需要付费。对于初学者而言，Community 版本一般即可满足开发需求，本课程中也将以 Windows 下的 Community版本为例进行讲解。
+
+###  2.1.3 PyCharm 官网下载
+
+PyCharm 官网：https://www.jetbrains.com/pycharm/，下载步骤如下：   
+
+1. 进入下载页面
+
+https://www.jetbrains.com/pycharm/download/#section=windows   
+
+点击 Community 下的“Download“即可，如下图所示    
+
+![](https://ipic101-1253790954.cos.ap-beijing.myqcloud.com/2022-10-18-Snip20221018_6.png)  
 
 
-**pip**可以用于安装功能强大的各种第三方库，如何安装pip，以及如何利用pip安装第三方库，就作为一个练习。
+2. 安装PyCharm  
+
+PyCharm 安装与设置涉及到不少操作细节，可以观看视频  
+
+
+
+3. PyCharm 安装中文插件
+
+PyCharm 提供了免费的中文插件，习惯使用中文界面的小伙伴可以安装中文插件，安装方法如下：
+
+在 PyCharm 的主界面依次点击：File-> settings- plugins-> Marketplace，在打开的 Marketplace 界面中，搜索 chinese，然后点击 InstallB 即可安装插件，如下图所示    
+
+![](https://ipic101-1253790954.cos.ap-beijing.myqcloud.com/2022-10-18-Snip20221018_7.png)
+
+
+
+
+
+
 
 
 
